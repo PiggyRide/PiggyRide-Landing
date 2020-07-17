@@ -18,8 +18,11 @@ We are thrilled to announce our service for a customer survey and connect invalu
 
 
 
-| Contributor | Email                 |
-| ----------- | --------------------- |
-| Wanjun Gu   | wag001@ucsd.edu       |
-| Ryan Heo    | ryanheo2001@gmail.com |
+## Contributors
+
+| Contributor  | Email                 |
+| ------------ | --------------------- |
+| Wanjun Gu    | wag001@ucsd.edu       |
+| Ryan Heo     | ryanheo2001@gmail.com |
+| Tongshan Liu | tol043@ucsd.edu       |
 
