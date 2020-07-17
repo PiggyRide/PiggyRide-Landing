@@ -14,7 +14,7 @@ For inter-city traveling, our price is **more than 6 times cheaper** than that o
 
 
 
-We are thrilled to announce our service for a customer survey and connect invaluable comments from you.
+We are thrilled to announce our service for a customer survey and we can not wait to collect invaluable comments from you.
 
 
 
